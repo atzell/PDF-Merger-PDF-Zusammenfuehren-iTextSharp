@@ -100,3 +100,4 @@ class Program
         Console.ReadKey();
     }
 }
+//© atzell all rights reserved
