@@ -8,6 +8,10 @@ c# code to merge any number of pdf documents
 4. install the framework "iTextSharp" (-->see below)
 5. finished
 
+OR:
+Just Open the "datenzusammenführen.sln" file
+_________________________________________________________________________________________________________________________________________________________________________
+
 # HOW TO DOWNLOAD ITEXTSHARP
 1. copy the code into "Itextsharp
 2. open CMD
